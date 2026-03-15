@@ -21,7 +21,7 @@
 - ⭐ CGPA: **8.50 / 10**
 - 🌱 Learning **Machine Learning, Deep Learning & App Development**
 - 🏆 Hackathon builder — **RIFT Hackathon '26** participant
-- 💬 Ask me about **Python, Flask, Flutter, AI/ML**
+- 💬 Ask me about **Python,N8N, Flask, Flutter, AI/ML**
 - 📍 Based in **Ballabgarh, Haryana, India**
 - ⚡ Fun fact: **I build apps that empower people! 💪**
 
