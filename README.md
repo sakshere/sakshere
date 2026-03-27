@@ -90,6 +90,18 @@
 
 ## 🚀 Featured Projects
 
+### 🤖 GitFolio AI – GitHub Portfolio Generator
+> AI-powered web app that generates a professional developer portfolio from GitHub profiles.
+
+- Built a full-stack app that fetches GitHub data and auto-generates portfolio content
+- Integrated AI using Gemini API for smart project summaries
+- Implemented clean UI with dynamic rendering of repositories and README content
+- Deployed the application on Render for live access
+
+**Tech:** `Python` `Flask` `REST API` `Gemini API` `HTML/CSS` `Render`
+
+---
+
 ### 📋 AttendIQ – Attendance Tracker with 75% Risk Predictor
 > Full-stack attendance tracker with real-time risk prediction and automated alerts.
 
